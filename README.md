@@ -1,6 +1,7 @@
 ### Hola, soy Agustina Di Natale👋
 
-[![linkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/agusdinax/)
+[<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
 
 ## En búsqueda de mi primer experiecia IT 👈
 
