@@ -1,7 +1,6 @@
 ### Hola, soy Agustina Di Natale👋
 
-[![Website](https://mediastrasse.com/wp-content/uploads/2020/12/design-tools.jpeg)](https://codestackr.com)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/agusdinax/)
+[![linkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/agusdinax/)
 
 ## En búsqueda de mi primer experiecia IT 👈
 
