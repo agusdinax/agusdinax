@@ -55,7 +55,7 @@ Como persona organizada y con gran motivación, soy capaz de adaptarme a cualqui
 - [🖱CURRICULUM PARA EL ÁREA DE DISEÑO GRÁFICO🖱](https://drive.google.com/file/d/1ZnJrM09aXyyfSso8_Lk5IZ7W_Oc34H00/view?usp=sharing)
 - [📣CURRICULUM PARA EL ÁREA DE MARKETING DIGITAL Y COMMUNITY MANAGMENT📣](https://drive.google.com/file/d/1yyafIisOisrw1ySOwTjtrke4EvjL8drv/view?usp=sharing)
 - [🔻ENGLISH RESUME🔻](https://drive.google.com/file/d/1Hu05Qv0RCYNduUPylJcI_YBIUTbPeOte/view?usp=sharing)
-- [💠MI PORTFOLIO - DISEÑO GRÁFICO💠-](https://drive.google.com/file/d/1NGRTCeZffAWF0s1DrQJhq_cA-TQVYFL2/view?usp=sharing)
+- [💠MI PORTFOLIO - DISEÑO GRÁFICO💠-](https://drive.google.com/file/d/1tFgaFsW7RhXnH5zZFH0k7C3lk8mnMvW1/view?usp=sharing)
 <!-- FIN CV'S-->
 
 ## 🎓MI ENFOQUE
