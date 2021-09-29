@@ -76,4 +76,4 @@ Como persona organizada y con gran motivación, soy capaz de adaptarme a cualqui
 [behancefotos]: https://www.behance.net/gallery/73904507/Mis-fotos-analogicas
 [linkedin]: https://linkedin.com/in/agusdinax
 [behance]: https://www.behance.net/agusdinax
-[portfolio]: https://drive.google.com/file/d/1NGRTCeZffAWF0s1DrQJhq_cA-TQVYFL2/view?usp=sharing 
+[portfolio]: https://drive.google.com/file/d/1tFgaFsW7RhXnH5zZFH0k7C3lk8mnMvW1/view?usp=sharing
