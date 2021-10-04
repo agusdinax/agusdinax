@@ -51,7 +51,7 @@ Como persona organizada y con gran motivación, soy capaz de adaptarme a cualqui
 ### 📕 Descarga Mi Curriculum especifico para cada área
 
 <!-- CV'S -->
-- [💻CURRICULUM VITAE PARA EL ÁREA DE TESTING Y DESARROLLO FRONT-END💻](https://drive.google.com/file/d/1sKOy0uA42x9f0Tb4JO5c8wK9hhAasTel/view?usp=sharing)
+- [💻CURRICULUM VITAE PARA EL ÁREA DE TESTING Y DESARROLLO FRONT-END💻]https://drive.google.com/file/d/1-2SJeNXnO85NkzdGcV86jgFhUI31H3AK/view?usp=sharing)
 - [🖱CURRICULUM PARA EL ÁREA DE DISEÑO GRÁFICO🖱](https://drive.google.com/file/d/1ZnJrM09aXyyfSso8_Lk5IZ7W_Oc34H00/view?usp=sharing)
 - [📣CURRICULUM PARA EL ÁREA DE MARKETING DIGITAL Y COMMUNITY MANAGMENT📣](https://drive.google.com/file/d/1yyafIisOisrw1ySOwTjtrke4EvjL8drv/view?usp=sharing)
 - [🔻ENGLISH RESUME🔻](https://drive.google.com/file/d/1Hu05Qv0RCYNduUPylJcI_YBIUTbPeOte/view?usp=sharing)
