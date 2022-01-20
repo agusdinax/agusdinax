@@ -1,20 +1,20 @@
-### Hola, soy Agustina Di Natale👋
+### 💻 Hola, soy Agustina Di Natale👋
 
 [<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
-## En búsqueda de mi primer experiecia IT 👈
+## 🌏 Dando mis primeros pasos en el mundo del Testing 🌏 
 
 - 🖐¡Hola! Me llamo Agustina, soy de la ciudad de Tandil, Buenos Aires, Argentina y tengo 24 años.
 Soy Técnica en Diseño Gráfico y estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) en UNICEN.
 - 🎭 Domino varios programas de edición y diseño del paquete de Adobe y Corel. Me destaco en el diseño de piezas gráficas de comunicación como folletería, posts de redes sociales, creación de logos, catálogos de marca y más.
 - 💻 De manera autodidacta comencé a estudiar Community Managment y Marketing digital, a través de diferentes cursos online. Tengo amplio conocimiento y buen manejo de las redes sociales, creación de publicidad paga en Facebook y Instagram. Y como también, el uso de las plataformas de Google: Google Ads, Google Analytics, y la implementación de SEO y SEM.
 - ⌨Estoy en el proceso de aprendizaje sobre las tecnologías especializadas en el Desarrollo Full-Stack: HTML5, CSS3, Javascript, Java, PHP y más.
-- 🔬 Actualmente me estoy capacitando en el Área de Testing, diseño de casos de prueba, reporte de incidentes, Testing manual y automatizado, Testing exploratorio y metodologías ágiles.
-    Soy una persona pro-activa con muchas ganas de desarrollar mis conocimientos y aprender nuevos en el proceso.
-Me encantaría formar parte de una empresa que me permita desarrollarme profesionalmente en el área de Testing.
-Como persona organizada y con gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto.
+- 🔬 Actualmente estoy trabajando en la empresa Unitech, en el Área de Testing, diseñando casos de prueba, reportando incidentes, realizando el testing manual y automatizado, testing de servicios, testing exploratorio, testing integral, siguiendo metodologías y ceremonias ágiles de trabajo.
+Soy una persona pro-activa con muchas ganas de desarrollar mis conocimientos y aprender nuevos en el proceso. 
+Como persona organizada y con gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto. 
 ¡Te invito a conocerme!🎇
+https://github.com/agusdinax
 
 - 🔭 En mi tiempo libre me gusta sacar [fotos analógicas][behancefotos]!
 - ⚡ [MI PORTFOLIO-DISEÑO GRÁFICO][portfolio]
@@ -58,12 +58,14 @@ Como persona organizada y con gran motivación, soy capaz de adaptarme a cualqui
 - [💠MI PORTFOLIO - DISEÑO GRÁFICO💠-](https://drive.google.com/file/d/1tFgaFsW7RhXnH5zZFH0k7C3lk8mnMvW1/view?usp=sharing)
 <!-- FIN CV'S-->
 
-## 🎓MI ENFOQUE
+## 🎓MIS HABILIDADES
 - Diseño de casos de prueba
 - Reporte de incidentes
 - Testing manual 
 - Testing automatizado 
 - Testing exploratorio 
+- Testing de Servicios
+- Testing Integral
 - Metodologías ágiles.
 
 <details>
