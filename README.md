@@ -82,18 +82,22 @@
 
 ### 🔹 QA & Test Automation
 
-Developed automated test scripts for web applications, improving testing efficiency.
-Created test cases and reports for a flight search feature, identifying critical issues.
+- Developed automated test scripts for web applications, enhancing testing efficiency and reducing manual effort.
+- Created comprehensive test cases and reports for a flight search feature, identifying and resolving critical issues.
+    - [Selenium & Python Automation](https://github.com/agusdinax/qa-selenium-python-allure)
+    - [Playwright Automation for UI & API](https://github.com/agusdinax/qa-playwright-allure)
+    - [Cypress Automation Tests](https://github.com/agusdinax/pruebas_cypress)
+    - [API Testing with RestAssured & Cucumber](https://github.com/agusdinax/API-RESTASSURED-CUCUMBER-JAVA)
 
 ### 🔹 Full-Stack Web Applications
 
-Built a secure login system with user authentication using React, FastAPI, and MySQL.
-Developed a tourism website using Angular and Material UI, featuring reusable components.
+- Built a secure login system with user authentication using React, FastAPI, and MySQL, ensuring robust security and smooth user experience.
+- Developed a dynamic tourism website using Angular and Material UI, featuring reusable components for better scalability and user interaction.
 
 ### 🔹 IoT & Embedded Systems
 
-Designed an access control system with ESP8266, a fingerprint sensor, and an LCD screen.
-Created an Arduino-based slot machine simulation for educational purposes.
+- Designed and implemented an access control system with ESP8266, integrating a fingerprint sensor and LCD screen for secure authentication.
+- Created an Arduino-based slot machine simulation for educational purposes, demonstrating embedded systems and user interaction.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusdinax&layout=compact&theme=vision-friendly-dark" width="600"/>
