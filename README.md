@@ -1,81 +1,67 @@
-### 💻 Hola, soy Agustina Di Natale👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/agusdinax/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://agusdinaxportfolio.000webhostapp.com/">
+      <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
+    </a>
+    <a href="📂 https://github.com/agusdinaxr">
+      <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=agusdinax&color=blue" alt=""/>
+  <h1>
+  hello world :)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-[<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+---
+### :woman_technologist: About Me :
+I am a QA Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
 
+- :gear:  I am passionate about testing and automation! I specialize in test automation with Katalon, covering APIs (SOAP & REST), UI, and mobile testing, with a strong focus on code reuse and parameterization to optimize processes. I am also proficient in other frameworks such as Selenium, Cypress, Playwright, Appium, and Postman, and I actively participate in projects following agile methodologies, continuously learning new frameworks in the process.
 
-## 🌏 Dando mis primeros pasos en el mundo del Testing 🌏 
-
-- 🖐¡Hola! Me llamo Agustina, soy de la ciudad de Tandil, Buenos Aires, Argentina y tengo 24 años.
-Soy Técnica en Diseño Gráfico y estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) en UNICEN.
-- 🎭 Domino varios programas de edición y diseño del paquete de Adobe y Corel. Me destaco en el diseño de piezas gráficas de comunicación como folletería, posts de redes sociales, creación de logos, catálogos de marca y más.
-- 💻 De manera autodidacta comencé a estudiar Community Managment y Marketing digital, a través de diferentes cursos online. Tengo amplio conocimiento y buen manejo de las redes sociales, creación de publicidad paga en Facebook y Instagram. Y como también, el uso de las plataformas de Google: Google Ads, Google Analytics, y la implementación de SEO y SEM.
-- ⌨Estoy en el proceso de aprendizaje sobre las tecnologías especializadas en el Desarrollo Full-Stack: HTML5, CSS3, Javascript, Java, PHP y más.
-- 🔬 Actualmente estoy trabajando en la empresa Unitech, en el Área de Testing, diseñando casos de prueba, reportando incidentes, realizando el testing manual y automatizado, testing de servicios, testing exploratorio, testing integral, siguiendo metodologías y ceremonias ágiles de trabajo.
-Soy una persona pro-activa con muchas ganas de desarrollar mis conocimientos y aprender nuevos en el proceso. 
-Como persona organizada y con gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto. 
-¡Te invito a conocerme!🎇
-https://github.com/agusdinax
-
-- 🔭 En mi tiempo libre me gusta sacar [fotos analógicas][behancefotos]!
-- ⚡ [MI PORTFOLIO-DISEÑO GRÁFICO][portfolio]
-
-### Podes encontrarme en: 
-
-
-[<img align="left" alt="agusdinax | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="agusdinax | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-
-
-<br />
-
-### SKILLS:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />]
-
-
-<br />
-<br />
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Agus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agusdinax/)
 
 ---
 
-### 📕 Descarga Mi Curriculum especifico para cada área
+### :hammer_and_wrench: Languages and Dev Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+  
+</div>
 
-<!-- CV'S -->
-- [💻CURRICULUM VITAE PARA EL ÁREA DE TESTING Y DESARROLLO FRONT-END💻] (https://drive.google.com/file/d/1-2SJeNXnO85NkzdGcV86jgFhUI31H3AK/view?usp=sharing)
-- [🖱CURRICULUM PARA EL ÁREA DE DISEÑO GRÁFICO🖱](https://drive.google.com/file/d/1ZnJrM09aXyyfSso8_Lk5IZ7W_Oc34H00/view?usp=sharing)
-- [📣CURRICULUM PARA EL ÁREA DE MARKETING DIGITAL Y COMMUNITY MANAGMENT📣](https://drive.google.com/file/d/1yyafIisOisrw1ySOwTjtrke4EvjL8drv/view?usp=sharing)
-- [🔻ENGLISH RESUME🔻](https://drive.google.com/file/d/1Hu05Qv0RCYNduUPylJcI_YBIUTbPeOte/view?usp=sharing)
-- [💠MI PORTFOLIO - DISEÑO GRÁFICO💠-](https://drive.google.com/file/d/1tFgaFsW7RhXnH5zZFH0k7C3lk8mnMvW1/view?usp=sharing)
-<!-- FIN CV'S-->
+### 🐞 Testing Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
+</div>
 
-## 🎓MIS HABILIDADES
-- Diseño de casos de prueba
-- Reporte de incidentes
-- Testing manual 
-- Testing automatizado 
-- Testing exploratorio 
-- Testing de Servicios
-- Testing Integral
-- Metodologías ágiles.
+---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="agudinax's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[behancefotos]: https://www.behance.net/gallery/73904507/Mis-fotos-analogicas
-[linkedin]: https://linkedin.com/in/agusdinax
-[behance]: https://www.behance.net/agusdinax
-[portfolio]: https://drive.google.com/file/d/1tFgaFsW7RhXnH5zZFH0k7C3lk8mnMvW1/view?usp=sharing
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusdinax&layout=compact&theme=vision-friendly-dark" width="600"/>
+</div>
