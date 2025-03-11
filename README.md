@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd1aXJzM3c3ajdnNGd6bXQxdzQzcDB6d29rNGRxd3YwNXJ3YTJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/agusdinax/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,56 +11,89 @@
       <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=agusdinax&color=blue" alt=""/>
-  <h1>
-  hello world :)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=agusdinax&color=red" alt=""/>
+  <h2>
+  hello world :) 
+  </h2>
 </div>
 
----
-### :woman_technologist: About Me :
-I am a QA Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+## :woman_technologist: About Me
+### 👋 Hello I'm Agustina from Argentina. 
+                                          QA Automation Tester | Full-Stack Developer | Tech Enthusiast
 
 - :gear:  I am passionate about testing and automation! I specialize in test automation with Katalon, covering APIs (SOAP & REST), UI, and mobile testing, with a strong focus on code reuse and parameterization to optimize processes. I am also proficient in other frameworks such as Selenium, Cypress, Playwright, Appium, and Postman, and I actively participate in projects following agile methodologies, continuously learning new frameworks in the process.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Agus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agusdinax/)
+- :mailbox:Let’s connect!: [![Linkedin Badge](https://img.shields.io/badge/-Agus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agusdinax/)
 
----
-
-### :hammer_and_wrench: Languages and Dev Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+## :hammer_and_wrench: Skills & Technologies 
+#### :bug: Quality Assurance & Testing
+- **Test Automation**: Selenium, PyTest, Cypress, Katalon, Appium, WebdriverIO, Playwright
+- **Manual Testing**: Functional, Regression, UI Testing, Exploratory  
+- **API Testing**: Postman, RestAssured, SoapUI, JMeter
+- **Bug Tracking & Reporting**: Jira, TestRail, Xray, Agile Test
   
-  
-</div>
-
-### 🐞 Testing Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>          
 </div>
 
----
+#### 🏗️  Development & Programming
+- **Frontend:** Angular, JavaScript, TypeScript, HTML
+- **Backend:** Python (Flask, FastAPI), Node.js, Java, PHP
+- **Databases:** MySQL, PostgreSQL
+- **Embedded Systems:** Arduino, ESP8266
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" **alt="html5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css3" **alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="flask" **alt="flask" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" title="groovy" **alt="groovy" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="fastapi" **alt="fastapi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>                  
+</div>
+
+#### 🧰 Tools & DevOps
+- **Version Control:** Git, GitHub
+- **CI/CD:** Jenkins, GitHub Actions
+  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" **alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="gitlab" **alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="gitlab" **alt="gitgitlabhub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="githubactions" **alt="githubactions" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40" />         
+</div>
+
+## 🌟 Featured Projects
+
+### 🔹 QA & Test Automation
+
+Developed automated test scripts for web applications, improving testing efficiency.
+Created test cases and reports for a flight search feature, identifying critical issues.
+
+### 🔹 Full-Stack Web Applications
+
+Built a secure login system with user authentication using React, FastAPI, and MySQL.
+Developed a tourism website using Angular and Material UI, featuring reusable components.
+
+### 🔹 IoT & Embedded Systems
+
+Designed an access control system with ESP8266, a fingerprint sensor, and an LCD screen.
+Created an Arduino-based slot machine simulation for educational purposes.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusdinax&layout=compact&theme=vision-friendly-dark" width="600"/>
