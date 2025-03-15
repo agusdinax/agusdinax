@@ -12,9 +12,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=agusdinax&color=red" alt=""/>
-  <h2>
-  hello world :) 
-  </h2>
 </div>
 
 ## :woman_technologist: About Me
