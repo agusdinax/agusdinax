@@ -7,7 +7,7 @@
     <a href="https://agusdinaxportfolio.000webhostapp.com/">
       <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
     </a>
-    <a href="📂 https://github.com/agusdinaxr">
+    <a href="https://github.com/agusdinax">
       <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance Badge"/>
     </a>
   </div>
