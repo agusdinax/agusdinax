@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/agusdinax/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://agusdinaxportfolio.000webhostapp.com/">
+    <a href="https://agusdinatale-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
     </a>
     <a href="https://www.behance.net/agusdinax">
